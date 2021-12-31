@@ -18,5 +18,8 @@
     "java",
     "javascript",
     "go"
+  ],
+  "_copy_without_render": [
+    ".gitkeep"
   ]
 }
