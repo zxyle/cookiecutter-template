@@ -2,8 +2,9 @@
 
 ## Usage
 ```bash
-cookiecutter cookiecutter-template
+$ pip install -U cookiecutter
+$ cookiecutter cookiecutter-template
 ```
 
 ## License
-MIT
+MIT license
