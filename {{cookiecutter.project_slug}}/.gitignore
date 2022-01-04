@@ -4,8 +4,9 @@
 out
 gen
 
-# Common
+# Common ignore files
 *.log
+.DS_Store
 
 {% if cookiecutter.language == 'python' -%}
 ### Python ###
@@ -182,7 +183,6 @@ _roadhog-api-doc
 /.vscode
 
 # misc
-.DS_Store
 npm-debug.log*
 yarn-error.log
 
