@@ -1,10 +1,8 @@
 # cookiecutter-template
 
 ## Usage
-```bash
-$ pip install -U cookiecutter
-$ cookiecutter cookiecutter-template
-```
+Click the "Use this template" button. 
+
 
 ## License
 MIT license
